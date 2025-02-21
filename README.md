@@ -4,23 +4,24 @@ This project analyzes movie genre trends, revenue impact, and time-series foreca
 
 ## 📁 Repository Structure  
 
-📦 Movie-Genre-Trends
-│── 📂 data # Raw datasets
-│── 📂 notebooks # Jupyter notebooks (.ipynb) with exploratory analysis
-│── 📂 graphs # PNG images of visualizations and analysis results
-│── 📂 src # Python scripts for analysis
-│ │── Analysis_of_Movie_Genre_Trends_Revenue_and_Genre_Diversity_Over_Time.py
-│ │── Average_Revenue_Impact.py
-│ │── Correlation_Matrix_for_Revenue_and_Popularity.py
-│ │── Genre_Trends_and_Revenue.py
-│ │── Genres_and_Their_Impact_on_Revenue.py
-│ │── Movie_Industry_Trends_Yearly_Analysis_of_Revenue_Genre_Diversity_and_Movie_Releases.py
-│ │── Process_Movie_Data_with_Genres_and_Profit.py
-│ │── Revenue_and_Movie_Distribution_by_Genre_Count.py
-│── 📂 time_series_prediction # LSTM & SARIMA models for revenue forecasting
-│ │── LSTM.py
-│ │── SARIMA.py
-│── README.md # Project documentation
+
+    │── 📂 data # Raw datasets
+    │── 📂 notebooks # Jupyter notebooks (.ipynb) with exploratory analysis
+    │── 📂 graphs # PNG images of visualizations and analysis results
+    │── 📂 src # Python scripts for analysis
+    │   │── Analysis_of_Movie_Genre_Trends_Revenue_and_Genre_Diversity_Over_Time.py
+    │   │── Average_Revenue_Impact.py
+    │   │── Correlation_Matrix_for_Revenue_and_Popularity.py
+    │   │── Genre_Trends_and_Revenue.py
+    │   │── Genres_and_Their_Impact_on_Revenue.py
+    │   │── Movie_Industry_Trends_Yearly_Analysis_of_Revenue_Genre_Diversity_and_Movie_Releases.py
+    │   │── Process_Movie_Data_with_Genres_and_Profit.py
+    │   │── Revenue_and_Movie_Distribution_by_Genre_Count.py
+    │── 📂 time_series_prediction # LSTM & SARIMA models for revenue forecasting
+    │   │── LSTM.py
+    │   │── SARIMA.py
+    │── README.md # Project documentation
+
 
 
 ## 📌 Project Overview  
