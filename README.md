@@ -1,4 +1,4 @@
-# 📊 Movie Genre Trends and Revenue Analysis  
+# 📊 Trends and Revenue Analysis  
 
 This project analyzes movie genre trends, revenue impact, and time-series forecasting using machine learning models.
 
